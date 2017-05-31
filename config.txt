@@ -1,0 +1,3 @@
+name = Vilin
+size = 180
+email = vilindimitrov99@gmail.com
