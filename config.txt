@@ -3,3 +3,6 @@ size = 180
 email = vilindimitrov99@gmail.com
 
 name = newName
+name = Nasko 
+size = 185
+email = nasonasevski@gmail.com
