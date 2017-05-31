@@ -3,3 +3,5 @@ size = 180
 email = vilindimitrov99@gmail.com
 
 name = newName
+
+нещо ново 
