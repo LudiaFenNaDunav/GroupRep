@@ -6,3 +6,5 @@ name = newName
 name = Nasko 
 size = 185
 email = nasonasevski@gmail.com
+
+нещо ново 
